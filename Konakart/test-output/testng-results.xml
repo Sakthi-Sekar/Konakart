@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-10-04T14:30:29Z" name="Default suite" finished-at="2019-10-04T14:30:54Z" duration-ms="24869">
+    <groups>
+    </groups>
+    <test started-at="2019-10-04T14:30:29Z" name="Default test" finished-at="2019-10-04T14:30:54Z" duration-ms="24869">
+      <class name="com.atmecs.konakart.testscripts.HeroImagePage">
+        <test-method signature="setup()[pri:1, instance:com.atmecs.konakart.testscripts.HeroImagePage@291ae]" started-at="2019-10-04T14:30:29Z" name="setup" finished-at="2019-10-04T14:30:45Z" duration-ms="15787" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickOnHeroImage()[pri:2, instance:com.atmecs.konakart.testscripts.HeroImagePage@291ae]" started-at="2019-10-04T14:30:45Z" name="clickOnHeroImage" finished-at="2019-10-04T14:30:49Z" duration-ms="4051" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnHeroImage -->
+        <test-method signature="navigateTabs()[pri:3, instance:com.atmecs.konakart.testscripts.HeroImagePage@291ae]" started-at="2019-10-04T14:30:49Z" name="navigateTabs" finished-at="2019-10-04T14:30:49Z" duration-ms="142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateTabs -->
+        <test-method signature="validateContent()[pri:4, instance:com.atmecs.konakart.testscripts.HeroImagePage@291ae]" started-at="2019-10-04T14:30:49Z" name="validateContent" finished-at="2019-10-04T14:30:49Z" duration-ms="125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContent -->
+        <test-method signature="validateSortByNumber()[pri:5, instance:com.atmecs.konakart.testscripts.HeroImagePage@291ae]" started-at="2019-10-04T14:30:49Z" name="validateSortByNumber" finished-at="2019-10-04T14:30:51Z" duration-ms="2097" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSortByNumber -->
+        <test-method signature="validateSortByActions()[pri:6, instance:com.atmecs.konakart.testscripts.HeroImagePage@291ae]" started-at="2019-10-04T14:30:51Z" name="validateSortByActions" finished-at="2019-10-04T14:30:54Z" duration-ms="2632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSortByActions -->
+      </class> <!-- com.atmecs.konakart.testscripts.HeroImagePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

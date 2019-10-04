@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sakthi.sekar/.m2/repository/log4j/log4j/1.2.12/log4j-1.2.12.jar">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="log4j"/>
+			<attribute name="maven.artifactId" value="log4j"/>
+			<attribute name="maven.version" value="1.2.12"/>
+			<attribute name="maven.scope" value="test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sakthi.sekar/.m2/repository/com/applitools/eyes-common-java3/3.157.12/eyes-common-java3-3.157.12.jar" sourcepath="C:/Users/sakthi.sekar/.m2/repository/com/applitools/eyes-common-java3/3.157.12/eyes-common-java3-3.157.12-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="com.applitools"/>
+			<attribute name="maven.artifactId" value="eyes-common-java3"/>
+			<attribute name="maven.version" value="3.157.12"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sakthi.sekar/.m2/repository/log4j/log4j/1.2.16/log4j-1.2.16.jar" sourcepath="C:/Users/sakthi.sekar/.m2/repository/log4j/log4j/1.2.16/log4j-1.2.16-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="log4j"/>
+			<attribute name="maven.artifactId" value="log4j"/>
+			<attribute name="maven.version" value="1.2.16"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sakthi.sekar/.m2/repository/io/appium/java-client/7.0.0/java-client-7.0.0.jar" sourcepath="C:/Users/sakthi.sekar/.m2/repository/io/appium/java-client/7.0.0/java-client-7.0.0-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="io.appium"/>
+			<attribute name="maven.artifactId" value="java-client"/>
+			<attribute name="maven.version" value="7.0.0"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry kind="lib" path="C:/Users/sakthi.sekar/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/3.141.59/selenium-chrome-driver-3.141.59.jar" sourcepath="C:/Users/sakthi.sekar/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/3.141.59/selenium-chrome-driver-3.141.59-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.seleniumhq.selenium"/>
+			<attribute name="maven.artifactId" value="selenium-chrome-driver"/>
+			<attribute name="maven.version" value="3.141.59"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sakthi.sekar/Downloads/eclipse-jee-2019-06-R-win32-x86_64/eclipse/plugins/org.testng_6.14.3.r201802240500.jar" sourcepath="C:/Users/sakthi.sekar/Downloads/eclipse-jee-2019-06-R-win32-x86_64/eclipse/plugins/org.testng.source_6.14.3.r201802240500.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sakthi.sekar/.m2/repository/org/apache/poi/poi-ooxml/3.11/poi-ooxml-3.11.jar" sourcepath="C:/Users/sakthi.sekar/.m2/repository/org/apache/poi/poi-ooxml/3.11/poi-ooxml-3.11-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.apache.poi"/>
+			<attribute name="maven.artifactId" value="poi-ooxml"/>
+			<attribute name="maven.version" value="3.11"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sakthi.sekar/.m2/repository/org/apache/poi/poi/3.11/poi-3.11.jar" sourcepath="C:/Users/sakthi.sekar/.m2/repository/org/apache/poi/poi/3.11/poi-3.11-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.apache.poi"/>
+			<attribute name="maven.artifactId" value="poi"/>
+			<attribute name="maven.version" value="3.11"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
